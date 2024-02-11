@@ -42,3 +42,11 @@ Then it **elaborates** the *any* entity with the name `*_tb`. In this case, that
 Finally, the workflow **runs** the simulation. If successful then it will quietly exit with a `0` code.
 If any of the `assert` statements fail **with** `severity failure` then GHDL will cease the simulation and exit with non-zero code; this will also cause the workflow to fail.
 Assert statements of other severity levels will be reported, but not fail the workflow.
+
+Circuit Diagram: https://usafa0-my.sharepoint.com/:i:/g/personal/c26kurt_chesney_afacademy_af_edu/EYCg3wdJzuJKoHdbjjiLZuQB6wroyv5lfiWPRGUweZ32Vg?e=F2mmvh
+
+Operational IC: https://usafa0-my.sharepoint.com/:v:/g/personal/c26kurt_chesney_afacademy_af_edu/EY7LwOaKLhBDkOQIjbfnJGEBCk0IAbNhV_1vxFoofmZ00Q?e=ffYdEO
+
+Operational VHDL: https://usafa0-my.sharepoint.com/:v:/g/personal/c26kurt_chesney_afacademy_af_edu/EdSTKHIdExFNpvDmb5gtfwoBnpeebmgshZMD2VNny17jMA?e=26L2lo
+
+
